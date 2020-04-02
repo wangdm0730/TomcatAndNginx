@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+    <servlet>
+        <servlet-name>minicat</servlet-name>
+        <servlet-class>server.MyServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>minicat</servlet-name>
+        <url-pattern>/goodbye/minicat</url-pattern>
+    </servlet-mapping>
+</web-app>

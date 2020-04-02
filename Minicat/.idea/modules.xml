@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Minicat.iml" filepath="$PROJECT_DIR$/Minicat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo7/demo7.iml" filepath="$PROJECT_DIR$/demo7/demo7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../minicatproject/minicatproject.iml" filepath="$PROJECT_DIR$/../minicatproject/minicatproject.iml" />
+    </modules>
+  </component>
+</project>
